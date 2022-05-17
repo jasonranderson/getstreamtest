@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196746640780",
+    "project_id": "quantum-qa",
+    "storage_bucket": "quantum-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196746640780:android:570cdfe05edcec9b37eaa9",
+        "android_client_info": {
+          "package_name": "ai.ander.quantum5.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196746640780-2lase789539ko678sladt82sc26d7444.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4aKfz_EEqZYIVZNki5GH83SzCErTA6EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196746640780-2lase789539ko678sladt82sc26d7444.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
